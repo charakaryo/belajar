@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Welcome, Buddy!"
+theme = "ananke"
+[Params]
+foo = "bar"
